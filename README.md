@@ -22,7 +22,7 @@
 ### Interesting Fact
 I have worked as a cook for over 3 years! My favorite food to make at home is steak.
 
-[Github Portfolio](https://github.com/agron-gojcaj) || [LinkedIn](https://www.linkedin.com/in/agron-gojcaj-8a336b226/)
+[Resume](https://docs.google.com/document/d/1MmGJf-SGhw5Y5fBfG1kE-oEYPsqsP5Db/edit?usp=sharing&ouid=104194125738334792237&rtpof=true&sd=true) || [LinkedIn](https://www.linkedin.com/in/agron-gojcaj-8a336b226/)
 
 <!---
 agron-gojcaj/agron-gojcaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
