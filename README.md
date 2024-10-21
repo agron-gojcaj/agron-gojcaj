@@ -1,12 +1,12 @@
 ### Hello!
 
- > I'm Agron Gojcaj, and I'm currently a Software Developer Intern at 365 Retail Markers, which is headquartered in Troy.
+ > I'm Agron Gojcaj, and I'm a Software Developer.
 
 
 ### About me
 1. I am a Computer Science student at Oakland University and am graduating in May 2025.
 
-2. I love to play sports and video games.
+2. I love to lift weights, play sports, and read.
 
 
 ### Languages
