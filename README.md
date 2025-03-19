@@ -15,9 +15,9 @@
 - Kotlin 
 - C
 - SQL
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS/JavaScript
+- React.js
+- TypeScript
 
 ### Interesting Fact
 I have worked as a cook for over 4 years! My favorite food to make at home is steak.
