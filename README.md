@@ -4,20 +4,20 @@
 
 
 ### About me
-1. I am a Computer Science student at Oakland University and am graduating in May 2025.
+1. I am a Computer Science graduate from Oakland University!
 
 2. I love to lift weights, play sports, and read.
 
 
 ### Languages
 - Java 
-- Python
-- Kotlin 
-- C
+- Python 
 - SQL
 - HTML/CSS/JavaScript
 - React.js
 - TypeScript
+- Kotlin
+- C
 
 ### Interesting Fact
 I have worked as a cook for over 4 years! My favorite food to make at home is steak.
